@@ -23,7 +23,7 @@ const MiddleImages = () => {
     <>
       <div className={`absolute ${isMobileView ? "pt-28 pl-28 right-14 h-[250px] w-[350px]" : ""} top-1/3 left-1/2 transform -translate-x-1/2 -translate-y-1/2`}>
         <Image
-          src="/cash.svg"
+          src="/Cash.svg"
           alt="Cash Image"
           layout="responsive"
           width={711}
@@ -33,7 +33,7 @@ const MiddleImages = () => {
       </div>
       <div className={`absolute ${isMobileView ? "pl-40 right-14 h-[350px] w-[350px]" : ""} top-11/20 left-1/2 transform -translate-x-1/2 -translate-y-7`}>
         <Image
-          src="/phone.svg"
+          src="/Phone.svg"
           alt="Phone Image"
           layout="responsive"
           width={378}
@@ -43,7 +43,7 @@ const MiddleImages = () => {
       </div>
       <div className={`absolute ${isMobileView ? "pl-36 right-14 h-[250px] w-[350px]" : ""} top-21/40 left-1/2 transform -translate-x-1/2 translate-y-8 md:translate-y-7 sm:translate-y-16`}>
         <Image
-          src="/app.svg"
+          src="/App.svg"
           alt="App Image"
           layout="responsive"
           width={711}
