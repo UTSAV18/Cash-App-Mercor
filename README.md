@@ -18,6 +18,20 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## About the Project
+
+The project has been developed utilizing React.js, Next.js, TypeScript, and Tailwind CSS, it project exemplifies technical excellence. Its full responsiveness impeccably meets Mercor Submission's requirements, reflecting my dedication to delivering a polished and professional solution.
+
+In Desktop View
+
+![Cash App Desktop View](https://github.com/UTSAV18/Cash-App-Mercor/assets/82526231/8f7a0905-c086-4731-8672-bed6f9dea0ae)
+
+In Mobile View
+
+![Mobile View](https://github.com/UTSAV18/Cash-App-Mercor/assets/82526231/9720f8c3-5dd1-46cd-b21b-c99024f09188)
+
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
